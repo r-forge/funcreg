@@ -43,7 +43,17 @@ echo $contents; } ?>
 
 <!-- end of project description -->
 
-<p> No content added. </p>
+<h2>Development has moved to Codeberg</h2>
+
+<p>
+This R-Forge project is retained for historical purposes.
+Current development of the packages previously hosted here has moved to Codeberg:
+</p>
+
+<ul>
+  <li><a href="https://codeberg.org/pchausse/funcreg">funcreg</a></li>
+</ul>
+
 
 <p> The <strong>project summary page</strong> you can find <a href="http://<?php echo $domain; ?>/projects/<?php echo $group_name; ?>/"><strong>here</strong></a>. </p>
 
